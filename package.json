@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/chucknorris-API.git"
   },
   "keywords": [
-    "chuck norris"," chuck norris jokes"," chuck norris joke"," chuck norris joke api"," chuck norris jokes api"," chuck norris joke tool"," chuck norris jokes tool"," chuck norris joke software"," chuck norris jokes software"," chuck norris joke service"," chuck norris jokes service"," chuck norris joke library"," chuck norris jokes library"," chuck norris joke sdk"," chuck norris jokes sdk"," chuck norris joke code"," chuck norris jokes code"," chuck norris joke script"," chuck norris jokes script"," chuck norris joke program"," chuck norris jokes program"," chuck norris joke application"," chuck norris jokes application"," chuck norris joke app"," chuck norris jokes app"," chuck norris joke tool"," chuck norris jokes tool"," chuck norris joke utility"," chuck norris jokes utility"," chuck norris joke helper"," chuck norris jokes helper"," chuck norris helper tool"," chuck norris jokes helper tool"," chuck norris helper software"," chuck norris jokes helper software"," chuck norris helper service"," chuck norris jokes helper service"," chuck norris helper library"," chuck norris jokes helper library"," chuck norris helper sdk"," chuck norris jokes helper sdk"," chuck norris helper code"," chuck norris jokes helper code"," chuck norris helper script"," chuck norris jokes helper script"," chuck norris helper program"," chuck norris jokes helper program"," chuck norris helper application"," chuck norris jokes helper application"," chuck norris helper app"," chuck norris jokes helper app"," chuck norris helper tool"," chuck norris jokes helper tool"," chuck norris helper utility"," chuck norris jokes helper utility"," chuck norris helper"," chuck norris jokes helper"
+    "chuck norris","chuck norris jokes","chuck norris joke","chuck norris joke api","chuck norris jokes api"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
