@@ -69,8 +69,9 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "As A Baby, Chuck Norris Was So Scary That His Mother Fed Him Using A Catapult."
-  }
+    "joke": "An Irs Agent Had To Call Chuck Norris To Ask For An Extension Period."
+  },
+  "code": 200
 }
 ```
 
