@@ -69,7 +69,7 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "An Irs Agent Had To Call Chuck Norris To Ask For An Extension Period."
+    "joke": "Hitler Committed Suicide Because He Knew Chuck Norris Was Pissed And Coming To Get Him."
   },
   "code": 200
 }
