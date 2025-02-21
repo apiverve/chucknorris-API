@@ -69,7 +69,7 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "joke": "Hitler Committed Suicide Because He Knew Chuck Norris Was Pissed And Coming To Get Him."
+    "joke": "Some Say That Chuck Has The Ability To Cencor All Who Mock Him. Wrong! So To Prove A Point, Chuck You're A[[this Comment Has Been Removed]}"
   },
   "code": 200
 }
@@ -97,7 +97,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
