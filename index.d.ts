@@ -1,0 +1,21 @@
+declare module '@apiverve/chucknorris' {
+  export interface chucknorrisOptions {
+    api_key: string;
+    secure?: boolean;
+  }
+
+  export interface chucknorrisResponse {
+    status: string;
+    error: string | null;
+    data: any;
+    code?: number;
+  }
+
+  export default class chucknorrisWrapper {
+    constructor(options: chucknorrisOptions);
+
+    execute(callback: (error: any, data: chucknorrisResponse | null) => void): Promise<chucknorrisResponse>;
+    execute(query: Record<string, any>, callback: (error: any, data: chucknorrisResponse | null) => void): Promise<chucknorrisResponse>;
+    execute(query?: Record<string, any>): Promise<chucknorrisResponse>;
+  }
+}
